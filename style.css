@@ -22,5 +22,6 @@ p {
 	height: 100%;
 	margin: 0;
 	text-align: center;
-	width: 100%;
+	width: 100%;font-size: 28px;
 }
+ul { font-size: 30px; }
