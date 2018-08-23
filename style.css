@@ -19,12 +19,6 @@ h2{
   
 }
 p {
-	height: 100%;
-	margin: 0;
-	text-align: center;
-	width: 100%;font-size: 28px;
+	font-size: 28px;
 }
-ul { height: 100%;
-	margin: 0;
-	text-align: center;
-	width: 100% ; font-size: 30px; }
+ul {  font-size: 30px; }
